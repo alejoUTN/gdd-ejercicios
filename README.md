@@ -1,2 +1,2 @@
-***Ejercicios GDD**
+**Ejercicios GDD**
 SQL & T-SQL
